@@ -1,6 +1,6 @@
 # WeatherWeb
 
-A  web app that displays the basic weather related and other basic information like coordinates, temperature , wind speed , visibility etc of any city in the world using the JSON data provided by the api.
+A  web app that displays the basic weather related and other basic information like coordinates, temperature , wind speed , visibility etc of any city in the world using the JSON data provided by the API.
 
 live link- https://weather-web-xaeroid.herokuapp.com/
 
