@@ -45,7 +45,7 @@ const Home = () => {
                     ): (
                         <>
                             <div className="temp">
-                                <h2>TEMPERATURE - {temp}(degree F)</h2>
+                                <h2>TEMPERATURE - {temp} (degree F)</h2>
                             </div>
                             <div className="visibility">
                                 <h2>VISIBILITY - {visibility}</h2>
