@@ -19,14 +19,18 @@
 }
 .button{
   background: aquamarine;
-  margin-top: 25px;
+  margin-top: 15px;
   text-align: center;
-  font-family: inherit;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-right: 7px;
   border-radius: 5px;
+  font-weight: bold;
+  transition: 1s;
 }
 .button:hover{
   cursor: pointer;
+  transition: 1s;
+  background-color: aqua;
 }
 .temperature{
   text-align: center;
@@ -55,4 +59,8 @@
 }
 body{
   background: rgb(148, 192, 233);
+  background: radial-gradient(rgb(178, 255, 116),rgb(148, 192, 233));
+}
+.footer{
+  text-align: center;
 }
